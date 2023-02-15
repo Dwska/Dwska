@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on everyone's project so i can learn and do better.
 
 - 📫 How to reach me is by text me through email. (luqmanshihab41@gmail.com)
-- Personal Web : https://gregarious-smakager-92f569.netlify.app
+- Personal Web : https://dwska-profile.netlify.app
 
 <!---
 Dwska/Dwska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
