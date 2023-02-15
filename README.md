@@ -2,11 +2,12 @@
 
 - 👀 I’m interested in Artificial Intelegence and all kind of sci-fi stuff.
 
-- 🌱 I’m currently learning Java and i'm also studying in informatic engineering.
+- 🌱 I’m currently learning Java, Python, R, TLA+, C, etc. and i'm also studying in informatic engineering.
 
 - 💞️ I’m looking to collaborate on everyone's project so i can learn and do better.
 
 - 📫 How to reach me is by text me through email. (luqmanshihab41@gmail.com)
+- Personal Web : https://gregarious-smakager-92f569.netlify.app
 
 <!---
 Dwska/Dwska is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
